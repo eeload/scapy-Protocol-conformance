@@ -18,6 +18,7 @@ ScapyPppoeClient.py:</br>
     pppoe-tags 配置可选的pppoe-tags字段 servername ac-name </br>
     lcp-options 配置可选的lcp-options  mru authentication-protocol 等信息</br>
     ipcp-options 配置可选的ipcp-options ip dns nbns等信息</br>
+Scapy_Pppoe_Client_v3.py:python3版本</br>
 ScapyPppoeServer.py:</br>
   主要用于模拟测试pppoe客户端拨号</br>
     pppoe-tags 配置可选的pppoe-tags字段 servername ac-name </br>
